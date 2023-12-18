@@ -24,8 +24,20 @@ Here are some ideas to get you started:
 ### Meus projetos pessoais
 
 ## Fintech
+Um dos meus primeiros projetos como programador foi o Fintech, um app mobile feito durante o ensino médio que visava sanar um problema social, que era a mal controle de finanças e partindo dessa ideia
+desenvolvi um app mobile que visava resolver esse problema, a seguir pode conferir alguns link:
+
+Protipo Figma: https://www.figma.com/proto/5JeeU9uokfxvEz2JN59LZr/Carteira-Certa---Trabalho-IES?node-id=72-123&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A91&show-proto-sidebar=1&mode=design&t=aSjE0E0JiApiMffp-1
 
 ## FunerariaApp
+Um dos meus projetos seguintes foi o desenvolvimento de um aplicativo destinado a profissionais do setor funerário, focado no gerenciamento eficaz de pagamentos de carnês e na supervisão de produtos essenciais, como caixões e cadeiras de rodas. O aplicativo conta com um backend em C# e utiliza um banco de dados Oracle para armazenamento seguro dos dados. Oferece funcionalidades como um sistema de gerenciamento financeiro avançado, controle abrangente de estoque e integração sólida com o banco de dados, proporcionando uma solução completa para otimizar as operações diárias no setor funerário.
+
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula"/>
+
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula"/>
 
 
 ## Patas Felizes
