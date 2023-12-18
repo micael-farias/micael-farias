@@ -48,18 +48,29 @@ Telas de estatistica e obitos
 
 
 ## Patas Felizes
-Esse projeto foi um dos meus melhores, ele foi feito para o Projeto Integrado I, discplina do curso engenharia de softare, ele ajudava os resgatadores de anmais a gerenciar os as animais, ele foi feito em Java com JavaFx e foi um do smeus olrgulos, conta com diversas funcionalidsdes, 
+
+Este projeto representa um dos meus maiores feitos, desenvolvido como parte do Projeto Integrado I durante o curso de Engenharia de Software. Ele foi concebido para facilitar o trabalho de resgatadores de animais, oferecendo uma solução abrangente para o gerenciamento eficiente dos animais resgatados. Construído em Java com JavaFX, este projeto é um dos meus orgulhos, apresentando diversas funcionalidades que aprimoram as operações dos resgatadores, contribuindo para a eficácia e organização no cuidado e acompanhamento dos animais. 
 
 Link para o prototipo: https://framer.com/projects/Patas-Felizes--GItXmTJ1Pp7BVNdP0V5u-56H1W
 ![Agnetha](https://github.com/micael-farias/micael-farias/blob/main/Projetos/agne.gif)
 ## Projetos que trabalhei
 
 ## Força de Vendas
+Força de Vendas e um projeto mobile android que e usado por empresas para fazer pedidos de venda dos itens presentes em seu banco, minha maior contribuição foi a remodelação do design do app
+
+Antes e depois
+![Antes e depois](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Forca%20de%20Vendas/antes%20e%20depois.png?raw=true)
 
 ## FvOpiniao (Solo)
+Este projeto foi uma extensão do força de vendas, e serviu como fonte para descobrir qual era a opinião que os usuários tinham a usar o app, aqui um gif com seu uso.
+![Gif](https://github.com/micael-farias/micael-farias/blob/main/Projetos/OpinioesEstatisticas/app.gif)
+
 
 ## FvFiles (Solo)
+Esse projeto foi feito para adicionar as fotos dos produtos presente no app força de vendas, a seguir podemos ver a funcionalidade de adicionar uma imagem a um produto
+![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Forca%20de%20Vendas/antes%20e%20depois.png)
 
 ## PDF SIVA Gerador (Solo)
-
+Esse foi um dos meus ultimos projeto, esta tambem relacionado ao força de vendas, sua função era gerar um pdf com as informações necessárias, vale ressaltar que as colunas são personalizáveis.
+![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Forca%20de%20Vendas/PAISAGEM.pdf) ![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Forca%20de%20Vendas/RETRATO.pdf)
 ## Backends
