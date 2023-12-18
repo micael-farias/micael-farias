@@ -36,14 +36,14 @@ Telas de cliente
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/Cliente.png)
 
 Telas de pedido
-<img loading="lazy" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/Pedidos.png)"/>
+![https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/Pedidos.png)
 
 Telas de estoque
-<img loading="lazy" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/Estoque.png)"/>
-<img loading="lazy" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/estoque.gif)"/>
+![https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/Estoque.png)
+![https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/estoque.gif)"
 
 Telas de estatistica e obitos
-<img loading="lazy" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/EstatisticasObitos.png)"/>
+![https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/EstatisticasObitos.png)
 
 
 ## Patas Felizes
