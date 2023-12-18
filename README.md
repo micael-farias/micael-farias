@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola, confira abaixo meus projetos👋
 
 <!--
 **micael-farias/micael-farias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=micael-farias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ### Meus projetos pessoais
 
@@ -72,5 +67,63 @@ Esse projeto foi feito para adicionar as fotos dos produtos presente no app for�
 
 ## PDF SIVA Gerador (Solo)
 Esse foi um dos meus ultimos projeto, esta tambem relacionado ao força de vendas, sua função era gerar um pdf com as informações necessárias, vale ressaltar que as colunas são personalizáveis.
-![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Forca%20de%20Vendas/PAISAGEM.png) ![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Forca%20de%20Vendas/RETRATO.png)
-## Backends
+Modo Retrato
+![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Forca%20de%20Vendas/RETRATO.png)
+Modo Paisagem
+![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Forca%20de%20Vendas/PAISAGEM.png)
+## Outros projetos
+
+No geral sou um programador mobile e backend 😄
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=micael-farias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+##Veja um pouco mais sobre minha trajetoria
+
+Sou um desenvolvedor dedicado com 2 anos de experiência em programação back-end utilizando C# e desenvolvimento mobile com Java. Tenho um histórico comprovado de entrega de soluções que agregam valor às empresas. Minha determinação em alcançar objetivos e minha busca incessante pela excelência me impulsionam a enfrentar desafios técnicos com extrema confiança.
+
+Experiência Profissional:
+
+Desenvolvedor Mobile | Outubro 2022 - Dezembro 2022
+
+Conduzi a migração do aplicativo Android de vendas "Forças de Vendas" de Java para Kotlin, otimizando o desempenho e a manutenção.
+
+Desenvolvedor Back-end | Janeiro 2022 - Agosto 2022
+
+Desenvolvimento do projeto CRM, implementando um Kanban para melhorar os processos das empresas que utilizam os sistemas da empresa.
+
+Desenvolvedor Back-end | Maio 2022 - Atualmente
+
+Estou envolvido no projeto "Gestão Central de Login," que tem como objetivo centralizar o sistema de login para as empresas que utilizam os serviços da Inforplus.
+
+Desenvolvedor | Agosto 2022 - Atualmente
+
+Conduzi a gamificação da aplicação "Força de Vendas," criando um ranking dos melhores vendedores da empresa que utiliza os sistemas.
+
+Desenvolvedor Back-end | Janeiro 2023 - Atualmente
+
+Trabalho na integração entre projetos e no desenvolvimento de um backend de integração com o PowerBI da Microsoft.
+
+Outros Projetos Relevantes:
+
+Remodelação da Aplicação Força de Vendas | Fevereiro 2023 - Junho 2023
+
+Participei da remodelação da aplicação "Força de Vendas," proporcionando um design mais clean e moderno.
+
+Integração com o Bucket S3 da AWS | Julho 2023 - Setembro 2023
+
+Atualmente, estou envolvido na integração de um projeto com o serviço de armazenamento S3 da AWS, contribuindo para a escalabilidade e eficiência do sistema.
+
+Habilidades:
+
+Programação em C#
+Desenvolvimento Mobile em Java
+Migração de Aplicativos (Java para Kotlin)
+Desenvolvimento Back-end
+Integração de Sistemas
+Gamificação de Aplicações
+Integração com AWS S3
+
