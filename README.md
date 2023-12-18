@@ -32,12 +32,18 @@ Protipo Figma: https://www.figma.com/proto/5JeeU9uokfxvEz2JN59LZr/Carteira-Certa
 ## FunerariaApp
 Um dos meus projetos seguintes foi o desenvolvimento de um aplicativo destinado a profissionais do setor funerário, focado no gerenciamento eficaz de pagamentos de carnês e na supervisão de produtos essenciais, como caixões e cadeiras de rodas. O aplicativo conta com um backend em C# e utiliza um banco de dados Oracle para armazenamento seguro dos dados. Oferece funcionalidades como um sistema de gerenciamento financeiro avançado, controle abrangente de estoque e integração sólida com o banco de dados, proporcionando uma solução completa para otimizar as operações diárias no setor funerário.
 
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula"/>
+Telas de cliente
+<img loading="lazy" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/Cliente.png)"/>
 
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula"/>
+Telas de pedido
+<img loading="lazy" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/Pedidos.png)"/>
+
+Telas de estoque
+<img loading="lazy" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/Estoque.png)"/>
+<img loading="lazy" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/estoque.gif)"/>
+
+Telas de estatistica e obitos
+<img loading="lazy" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=micael-farias&layout=compact&langs_count=7&theme=dracula](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Funeraria/EstatisticasObitos.png)"/>
 
 
 ## Patas Felizes
