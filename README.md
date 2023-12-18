@@ -51,7 +51,7 @@ Telas de estatistica e obitos
 Esse projeto foi um dos meus melhores, ele foi feito para o Projeto Integrado I, discplina do curso engenharia de softare, ele ajudava os resgatadores de anmais a gerenciar os as animais, ele foi feito em Java com JavaFx e foi um do smeus olrgulos, conta com diversas funcionalidsdes, 
 
 Link para o prototipo: https://framer.com/projects/Patas-Felizes--GItXmTJ1Pp7BVNdP0V5u-56H1W
-https://github.com/micael-farias/micael-farias/blob/main/Projetos/agne.gif
+![Agnetha](https://github.com/micael-farias/micael-farias/blob/main/Projetos/agne.gif)
 ## Projetos que trabalhei
 
 ## Força de Vendas
