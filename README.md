@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ##Patas Felizes
 
-### Projetos que trabalhei
+## Projetos que trabalhei
 
 ## Força de Vendas
 
