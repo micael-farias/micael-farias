@@ -72,5 +72,5 @@ Esse projeto foi feito para adicionar as fotos dos produtos presente no app for�
 
 ## PDF SIVA Gerador (Solo)
 Esse foi um dos meus ultimos projeto, esta tambem relacionado ao força de vendas, sua função era gerar um pdf com as informações necessárias, vale ressaltar que as colunas são personalizáveis.
-![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Forca%20de%20Vendas/PAISAGEM.pdf) ![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Forca%20de%20Vendas/RETRATO.pdf)
+![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Forca%20de%20Vendas/PAISAGEM.png) ![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Forca%20de%20Vendas/RETRATO.png)
 ## Backends
