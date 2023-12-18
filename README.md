@@ -61,6 +61,7 @@ Antes e depois
 
 ## FvOpiniao (Solo)
 Este projeto foi uma extensão do força de vendas, e serviu como fonte para descobrir qual era a opinião que os usuários tinham a usar o app, aqui um gif com seu uso.
+
 ![Gif](https://github.com/micael-farias/micael-farias/blob/main/Projetos/OpinioesEstatisticas/app.gif)
 
 
