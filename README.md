@@ -51,6 +51,16 @@ Este projeto representa um dos meus maiores feitos, desenvolvido como parte do P
 
 Link para o prototipo: https://framer.com/projects/Patas-Felizes--GItXmTJ1Pp7BVNdP0V5u-56H1W
 ![Agnetha](https://github.com/micael-farias/micael-farias/blob/main/Projetos/agne.gif)
+
+Telas de pets
+![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Patas/pets.png)
+
+Doacoes e despesas
+![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Patas/doacoes.png)
+
+Voluntarios e tarefas
+![](https://github.com/micael-farias/micael-farias/blob/main/Projetos/Patas/voluntarios%20e%20taefas.png)
+
 ## Projetos que trabalhei
 
 ## Força de Vendas
